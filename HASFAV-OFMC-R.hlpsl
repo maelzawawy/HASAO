@@ -1,0 +1,18 @@
+% OFMC
+% Version of 2006/02/13
+SUMMARY
+  SAFE
+DETAILS
+  BOUNDED_NUMBER_OF_SESSIONS
+PROTOCOL
+  /home/span/span/testsuite/results/HASFAV.if
+GOAL
+  as_specified
+BACKEND
+  OFMC
+COMMENTS
+STATISTICS
+  parseTime: 0.00s
+  searchTime: 343.45s
+  visitedNodes: 1840 nodes
+  depth: 8 plies
